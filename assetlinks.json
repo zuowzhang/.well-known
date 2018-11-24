@@ -1,0 +1,57 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.charles.instantappdemo",
+      "sha256_cert_fingerprints": [
+        "E3:25:97:91:18:74:27:87:3A:CA:75:CE:CF:A8:89:F9:77:46:66:28:F9:CC:91:8A:82:18:7A:AE:73:A2:E0:9E"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.google.samples.apps.topeka",
+      "sha256_cert_fingerprints": [
+        "E3:25:97:91:18:74:27:87:3A:CA:75:CE:CF:A8:89:F9:77:46:66:28:F9:CC:91:8A:82:18:7A:AE:73:A2:E0:9E"
+      ]
+    }
+  },
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.rockets.dudu",
+      "sha256_cert_fingerprints": [
+        "E3:25:97:91:18:74:27:87:3A:CA:75:CE:CF:A8:89:F9:77:46:66:28:F9:CC:91:8A:82:18:7A:AE:73:A2:E0:9E",
+        "5E:B4:55:4A:A9:D2:E8:DA:25:D4:75:C3:5C:CF:17:42:CE:F2:77:17:DA:9A:22:95:F6:95:D7:AE:70:4D:D3:09",
+        "8B:A6:6D:86:DA:8C:4F:0C:0D:EE:6F:CB:A2:E6:8C:81:BA:B5:1F:61:58:37:72:EC:55:CA:BD:3D:00:4C:0A:47",
+        "CE:7A:75:37:62:9E:3C:64:26:D8:59:6B:86:DA:80:7C:0B:F6:89:3A:A4:8D:7A:0A:12:A9:9B:26:4A:D6:4C:7F"
+      ]
+    }
+  }
+  ,
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.rockets.biubiu",
+      "sha256_cert_fingerprints": [
+        "E3:25:97:91:18:74:27:87:3A:CA:75:CE:CF:A8:89:F9:77:46:66:28:F9:CC:91:8A:82:18:7A:AE:73:A2:E0:9E",
+        "5E:B4:55:4A:A9:D2:E8:DA:25:D4:75:C3:5C:CF:17:42:CE:F2:77:17:DA:9A:22:95:F6:95:D7:AE:70:4D:D3:09",
+        "8B:A6:6D:86:DA:8C:4F:0C:0D:EE:6F:CB:A2:E6:8C:81:BA:B5:1F:61:58:37:72:EC:55:CA:BD:3D:00:4C:0A:47",
+        "CE:7A:75:37:62:9E:3C:64:26:D8:59:6B:86:DA:80:7C:0B:F6:89:3A:A4:8D:7A:0A:12:A9:9B:26:4A:D6:4C:7F"
+      ]
+    }
+  }
+]
